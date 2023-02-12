@@ -42,7 +42,7 @@ Librerie Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="25" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/1280px-Looker.svg.png" width="150" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="25" />      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/1280px-Looker.svg.png" width="150" height="40" />
 
 
 <!---
