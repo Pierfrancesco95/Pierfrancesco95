@@ -3,7 +3,10 @@
 - :books: :atom: I’m currently learning Machine Learning
 - :camera: :basketball: :soccer: Passionate about photography, basketball and soccer
 
-![image]({[BadgeURLHere}](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white))
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)}" />
+
+![image]({[BadgeURLHere}]())
 
 
 <!---
