@@ -47,6 +47,9 @@
 
 ![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png | width=100)
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="200" height="400" />
+
 <!---
 Pierfrancesco95/Pierfrancesco95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
