@@ -3,6 +3,7 @@
 - :books: :atom: I’m currently learning Machine Learning
 - :camera: :basketball: :soccer: Passionate about photography, basketball and soccer
 
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 
 <!---
 Pierfrancesco95/Pierfrancesco95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
