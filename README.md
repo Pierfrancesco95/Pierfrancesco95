@@ -1,3 +1,6 @@
+<img src="https://wallpaperaccess.com/full/1826227.jpg" width="900" height="350" />
+
+
 ## SUMMARY:
 
 - 👋 Hi, I’m Pierfrancesco
