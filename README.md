@@ -9,7 +9,15 @@
 - :books: I’m currently learning Machine Learning
 - :computer: :camera: :basketball: :soccer: Passionate about technology, photography, basketball and soccer
 
-## CONCTACTS:
+## EDUCATION:
+
+:page_with_curl: Cooding Bootcamp in Data Analytics
+
+:page_with_curl: Master in Business Administration
+
+:page_with_curl: Bachelor degree in Economics
+
+## CONTACTS:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
