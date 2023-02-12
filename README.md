@@ -45,7 +45,7 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png =250x250)
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png | width=100)
 
 <!---
 Pierfrancesco95/Pierfrancesco95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
