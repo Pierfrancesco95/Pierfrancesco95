@@ -1,10 +1,12 @@
+## SUMMARY:
+
 - 👋 Hi, I’m Pierfrancesco
-- :computer: :bar_chart: :rocket: I’m interested in Data Analytics and Data Science
--  Job experience as Auditor and Accountant in a Big4
+- :computer: :rocket: I’m interested in Data Analytics and Data Science
+- :bar_chart: I've job experience as Auditor and Accountant in a Big4
 - :books: :atom: I’m currently learning Machine Learning
 - :camera: :basketball: :soccer: Passionate about photography, basketball and soccer
 
-CONCTACTS:
+## CONCTACTS:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -12,7 +14,7 @@ CONCTACTS:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-LANGUAGES AND TOOLS:
+## LANGUAGES AND TOOLS:
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
