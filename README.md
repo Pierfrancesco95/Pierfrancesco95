@@ -57,13 +57,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/1280px-Looker.svg.png" width="70" height="20" />
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
-
-
-
-
 
 
 <!---
