@@ -11,9 +11,9 @@
 
 ## EDUCATION:
 
-:page_with_curl: Cooding Bootcamp in Data Analytics
+:page_with_curl: Master in Data Analytics
 
-:page_with_curl: Master in Business Administration
+:page_with_curl: Master degree in Business Administration
 
 :page_with_curl: Bachelor degree in Economics
 
@@ -55,6 +55,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/1280px-Looker.svg.png" width="70" height="20" />
 
 
