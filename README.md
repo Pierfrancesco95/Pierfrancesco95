@@ -3,11 +3,11 @@
 
 ## SUMMARY:
 
-- 👋 Hi, I’m Pierfrancesco
-- :rocket: I’m interested in Data Analytics and Data Science
-- :bar_chart: I've job experience as Auditor and Accountant in a Big4
-- :books: I’m currently learning Machine Learning
-- :computer: :camera: :basketball: :soccer: Passionate about technology, photography, basketball and soccer
+- 👋 Hi, My name is Pierfrancesco and I was born in 1995
+- :rocket: I'm interested in Data Analytics and Data Science
+- :bar_chart: I've 4 years job experience as Auditor and Accountant in a "Big4" Company
+- :books: I'm currently learning more about data and working on my portfolio projects
+- :computer: Passionate about technology, photography, basketball and soccer
 
 ## EDUCATION:
 
@@ -19,6 +19,8 @@
 
 ## CONTACTS:
 
+Here the socials I use professionally:
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -26,6 +28,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## LANGUAGES AND TOOLS:
+
+Here you can find the languages and tools I use most frequently. I consider myself also capable to learn in short time other similar languages and tools.
 
 ![Google Sheet](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -44,10 +48,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
